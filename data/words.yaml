@@ -1,0 +1,3493 @@
+-
+  word: SANTRFOR
+  forbidden_words:
+    - FUTBOL
+    - OYUNCU
+    - SAHA
+    - FORVET
+-
+  word: MOZAİK
+  forbidden_words:
+    - KÜÇÜK
+    - TAŞ
+    - PASTA
+    - DUVAR
+-
+  word: SERTİFİKA
+  forbidden_words:
+    - BELGE
+    - ALMAK
+    - VERMEK
+    - EĞİTİM
+-
+  word: İNSAN SARRAFI
+  forbidden_words:
+    - ANLAMAK
+    - TANIMAK
+    - İYİ
+    - KÖTÜ
+-
+  word: ELİ YATKIN
+  forbidden_words:
+    - BECERİKLİ
+    - HAMARAT
+    - İŞ
+    - BİLMEK
+-
+  word: PİRAMİT
+  forbidden_words:
+    - MISIR
+    - ÜÇGEN
+    - ŞEKİL
+    - FİRAVUN
+-
+  word: FRENK ÜZÜMÜ
+  forbidden_words:
+    - KIRMIZI
+    - ŞURUP
+    - BÖĞÜRTLEN
+    - AHUDUDU
+-
+  word: MUTLU SON
+  forbidden_words:
+    - HİKAYE
+    - MASAL
+    - FİLM
+    - AŞK
+-
+  word: İŞ KURMAK
+  forbidden_words:
+    - DÜKKAN
+    - AÇMAK
+    - PATRON
+    - KENDİ
+-
+  word: ÖZGÜVEN
+  forbidden_words:
+    - SAYGI
+    - KENDİ
+    - İNANMAK
+    - BAŞARMAK
+-
+  word: TİFTİK
+  forbidden_words:
+    - KEÇİ
+    - YÜN
+    - KAZAK
+    - YUMUŞAK
+-
+  word: ULVİ
+  forbidden_words:
+    - AMAÇ
+    - YÜKSEK
+    - ULU
+    - YÜCE
+-
+  word: LAÇKALAŞMAK
+  forbidden_words:
+    - GEVŞEMEK
+    - RAHAT
+    - SAMİMİ
+    - ORTAM
+-
+  word: LARVA
+  forbidden_words:
+    - KURTÇUK
+    - KURBAĞA
+    - SİNEK
+    - YUMURTA
+-
+  word: KÖPEKBALIĞI
+  forbidden_words:
+    - HAYVAN
+    - YÜZGEÇ
+    - JAWS
+    - BALİNA
+-
+  word: LIV TYLER
+  forbidden_words:
+    - SİNEMA
+    - OYUNCU
+    - ARWEN
+    - ARAGORN
+-
+  word: FİLETO
+  forbidden_words:
+    - ET
+    - KESMEK
+    - İNCE
+    - DİLİM
+-
+  word: RANDIMAN
+  forbidden_words:
+    - VERİM
+    - ÇALIŞMAK
+    - İŞ
+    - SONUÇ
+-
+  word: LAFAZAN
+  forbidden_words:
+    - KONUŞMAK
+    - GEVEZE
+    - SÖZ
+    - HAZIRCEVAP
+-
+  word: DERBEDER
+  forbidden_words:
+    - DAĞINIK
+    - TİTİZ
+    - TEMİZ
+    - YAŞAMAK
+-
+  word: MAT ETMEK
+  forbidden_words:
+    - SATRANÇ
+    - YENMEK
+    - BİTİRMEK
+    - ŞAH
+-
+  word: ÇİĞ BÖREK
+  forbidden_words:
+    - YİYECEK
+    - HAMUR
+    - KIZARTMAK
+    - MANTI
+-
+  word: MESANE
+  forbidden_words:
+    - ŞİŞMEK
+    - İDRAR
+    - TORBA
+    - KESE
+-
+  word: SUDOKU
+  forbidden_words:
+    - BULMACA
+    - SAYI
+    - YERLEŞTİRMEK
+    - KARE
+-
+  word: DİNAR
+  forbidden_words:
+    - PARA
+    - BİRİM
+    - IRAK
+    - ARAP
+-
+  word: KALSİYUM
+  forbidden_words:
+    - KEMİK
+    - SÜT
+    - PEYNİR
+    - YOĞURT
+-
+  word: ORTODONTİ
+  forbidden_words:
+    - DİŞ
+    - TIP
+    - DAL
+    - TEL
+-
+  word: KAĞIT HAVLU
+  forbidden_words:
+    - SİLMEK
+    - RULO
+    - KURULAMAK
+    - DÖKÜLMEK
+-
+  word: AYNASIZ
+  forbidden_words:
+    - POLİS
+    - ARGO
+    - HIRSIZ
+    - FİLM
+-
+  word: PROJEKTÖR
+  forbidden_words:
+    - YANSITMAK
+    - SİNEMA
+    - SUNUM
+    - IŞIK
+-
+  word: ŞEHRAZAT
+  forbidden_words:
+    - 1001 GECE
+    - MASAL
+    - KAHRAMAN
+    - ANLATMAK
+-
+  word: EVHAM
+  forbidden_words:
+    - PANİK
+    - ŞÜPHE
+    - KUŞKU
+    - VESVESE
+-
+  word: PARMAKLIK
+  forbidden_words:
+    - HAPİSHANE
+    - HIRSIZ
+    - PENCERE
+    - DEMİR
+-
+  word: İSHAL
+  forbidden_words:
+    - SULU
+    - MİDE
+    - BOZMAK
+    - TUVALET
+-
+  word: LEBİDERYA
+  forbidden_words:
+    - DENİZ KENARI
+    - SAHİL
+    - EV
+    - YAZLIK
+-
+  word: HELLİM PEYNİRİ
+  forbidden_words:
+    - KIBRIS
+    - SALATA
+    - KAŞAR
+    - KIZARTMAK
+-
+  word: REKOLTE
+  forbidden_words:
+    - TARIM
+    - ÜRÜN
+    - YIL
+    - ALMAK
+-
+  word: DURAK
+  forbidden_words:
+    - OTOBÜS
+    - TREN
+    - DOLMUŞ
+    - İNMEK
+-
+  word: LOKAVT
+  forbidden_words:
+    - GREV
+    - İŞÇİ
+    - ÇIKARMAK
+    - PATRON
+-
+  word: NİŞASTA
+  forbidden_words:
+    - ŞEKER
+    - KARBONHİDRAT
+    - YİYECEK
+    - PATATES
+-
+  word: ŞEBNEM FERAH
+  forbidden_words:
+    - ŞARKICI
+    - KADIN
+    - ROCK
+    - VOLVOX
+-
+  word: CAN SİMİDİ
+  forbidden_words:
+    - DENİZ
+    - YUVARLAK
+    - TAKMAK
+    - BOĞULMAK
+-
+  word: KAMP
+  forbidden_words:
+    - ÇADIR
+    - ORMAN
+    - ATEŞ
+    - UYKU TULUMU
+-
+  word: SONRADAN GÖRME
+  forbidden_words:
+    - ZENGİN
+    - FAKİR
+    - GÖSTERİŞ
+    - ÖVÜNMEK
+-
+  word: KIYASIYA
+  forbidden_words:
+    - MÜCADELE
+    - ZORLU
+    - REKABET
+    - ÇEKİŞMELİ
+-
+  word: KANTİN
+  forbidden_words:
+    - OKUL
+    - TOST
+    - KAFETERYA
+    - ÖĞRENCİ
+-
+  word: TAKMA DİŞ
+  forbidden_words:
+    - AĞIZ
+    - YEMEK
+    - YAŞLI
+    - DÖKÜLMEK
+-
+  word: BEKÇİ
+  forbidden_words:
+    - DÜDÜK
+    - HIRSIZ
+    - GÜVENLİK
+    - KULÜBE
+-
+  word: FOS ÇIKMAK
+  forbidden_words:
+    - GÜVENMEK
+    - GERÇEKLEŞMEK
+    - UMMAK
+    - BOŞ
+-
+  word: DANIEL CRAIG
+  forbidden_words:
+    - JAMES BOND
+    - AKTÖR
+    - 007
+    - SARIŞIN
+-
+  word: MALTA
+  forbidden_words:
+    - ADA
+    - ŞOVALYE
+    - ÜLKE
+    - AKDENİZ
+-
+  word: FİLE
+  forbidden_words:
+    - PAZAR
+    - TORBA
+    - İP
+    - BASKETBOL
+-
+  word: ZINEDINE ZIDANE
+  forbidden_words:
+    - FUTBOL
+    - JUBİLE
+    - CEZAYİR
+    - FRANSA
+-
+  word: MENEMEN
+  forbidden_words:
+    - YEMEK
+    - YUMURTA
+    - DOMATES
+    - TAVA
+-
+  word: TUNİK
+  forbidden_words:
+    - GİYSİ
+    - PANTOLON
+    - ETEK
+    - UZUN
+-
+  word: KÖSTEK OLMAK
+  forbidden_words:
+    - ENGEL
+    - MANİ
+    - DESTEK
+    - YARDIM
+-
+  word: ÇAPAK
+  forbidden_words:
+    - GÖZ
+    - SABAH
+    - KURUMAK
+    - UYKU
+-
+  word: BOZKIR
+  forbidden_words:
+    - BİTKİ
+    - TOPRAK
+    - KIRAÇ
+    - ÇAYIR
+-
+  word: VATANDAŞ
+  forbidden_words:
+    - ÜLKE
+    - MİLLET
+    - YURTTAŞ
+    - YAŞAMAK
+-
+  word: BADEM EZMESİ
+  forbidden_words:
+    - TATLI
+    - ŞEKERLEME
+    - YİYECEK
+    - LOKUM
+-
+  word: KARNABAHAR
+  forbidden_words:
+    - SEBZE
+    - MEYVE
+    - YEMEK
+    - BEYAZ
+-
+  word: ÇEKİCİ
+  forbidden_words:
+    - KADIN
+    - GÜZEL
+    - SEKSİ
+    - ALIMLI
+-
+  word: CANAN
+  forbidden_words:
+    - SEVGİLİ
+    - AŞIK OLMAK
+    - GÖNÜL VERMEK
+    - KADIN
+-
+  word: TUĞRA
+  forbidden_words:
+    - OSMANLI
+    - İMZA
+    - PADİŞAH
+    - SEMBOL
+-
+  word: BLENDER
+  forbidden_words:
+    - KARIŞTIRMAK
+    - PARÇALAMAK
+    - MUTFAK
+    - ALET
+-
+  word: KROMOZOM
+  forbidden_words:
+    - X
+    - Y
+    - GENETİK
+    - DNA
+-
+  word: SİYAH KUŞAK
+  forbidden_words:
+    - UZAK DOĞU
+    - JUDO
+    - KARATE
+    - SPOR
+-
+  word: BÜZGÜ
+  forbidden_words:
+    - DİKMEK
+    - KUMAŞ
+    - İPLİK
+    - KIVRIM
+-
+  word: NÜFUS SAYIMI
+  forbidden_words:
+    - ÜLKE
+    - YAŞAMAK
+    - İNSAN
+    - MEMUR
+-
+  word: KETEN
+  forbidden_words:
+    - KUMAŞ
+    - PANTOLON
+    - YAZLIK
+    - CEKET
+-
+  word: HACI BEKTAŞ-I VELİ
+  forbidden_words:
+    - ALEVİ
+    - TASAVVUF
+    - ŞENLİK
+    - MEVLANA
+-
+  word: VAZELİN
+  forbidden_words:
+    - YUMUŞAK
+    - SÜRMEK
+    - EL
+    - AYAK
+-
+  word: AMONYAK
+  forbidden_words:
+    - SULU
+    - TEMİZLİK
+    - KOKU
+    - ARI SOKMASI
+-
+  word: SOLARYUM
+  forbidden_words:
+    - GÜNEŞ
+    - YANMAK
+    - BRONZLAŞMAK
+    - TEN
+-
+  word: MAKSAT
+  forbidden_words:
+    - AMAÇ
+    - AŞMAK
+    - İSTEMEK
+    - NEDEN
+-
+  word: GENSORU
+  forbidden_words:
+    - TBMM
+    - ÖNERGE
+    - BAKAN
+    - MİLLETVEKİLİ
+-
+  word: MESİRE
+  forbidden_words:
+    - YER
+    - PİKNİK
+    - GEZMEK
+    - AĞAÇLIK
+-
+  word: BOA YILANI
+  forbidden_words:
+    - HAYVAN
+    - KOBRA
+    - SÜRÜNGEN
+    - UZUN
+-
+  word: KORNEA
+  forbidden_words:
+    - GÖZ
+    - İRİS
+    - GÖRMEK
+    - PARÇA
+-
+  word: MİZANSEN
+  forbidden_words:
+    - YARATMAK
+    - TAKLİT
+    - SİNEMA
+    - DÜZENLEMEK
+-
+  word: RANZA
+  forbidden_words:
+    - YATAK
+    - İKİ
+    - KAT
+    - KOĞUŞ
+-
+  word: ABİDİN DİNO
+  forbidden_words:
+    - RESSAM
+    - NAZIM HİKMET
+    - FRANSA
+    - MUTLULUK
+-
+  word: SİNEMASKOP
+  forbidden_words:
+    - GENİŞ
+    - SİYAH
+    - BANT
+    - ÇERÇEVE
+-
+  word: TESLİMAT
+  forbidden_words:
+    - POSTA
+    - KARGO
+    - GÖNDERMEK
+    - MEKTUP
+-
+  word: BİLMECE
+  forbidden_words:
+    - BULMACA
+    - TEKERLEME
+    - GİZLİ
+    - SORMAK
+-
+  word: BANDANA
+  forbidden_words:
+    - SAÇ
+    - TAKMAK
+    - EŞARP
+    - BAĞLAMAK
+-
+  word: PÜSKÜRMEK
+  forbidden_words:
+    - YANARDAĞ
+    - LAV
+    - SU
+    - ÇIKARMAK
+-
+  word: ARSIZ
+  forbidden_words:
+    - ŞIMARIK
+    - TERBİYESİZ
+    - DAYAK
+    - UTANMAZ
+-
+  word: KORTEJ
+  forbidden_words:
+    - TÖREN
+    - KONVOY
+    - ASKER
+    - YÜRÜMEK
+-
+  word: ANKA KUŞU
+  forbidden_words:
+    - HAYALİ
+    - MASAL
+    - EFSANE
+    - KAF DAĞI
+-
+  word: HAMLET
+  forbidden_words:
+    - KAHRAMAN
+    - 'OLMAK YADA OLMAMAK'
+    - SHAKESPEARE
+    - TİYATRO
+-
+  word: STEPNE
+  forbidden_words:
+    - LASTİK
+    - YEDEK
+    - TEKERLEK
+    - ARABA
+-
+  word: PANZEHİR
+  forbidden_words:
+    - ŞIRINGA
+    - İYİLEŞTİRMEK
+    - MADDE
+    - SOKMAK
+-
+  word: DEFNE
+  forbidden_words:
+    - YAPRAK
+    - AĞAÇ
+    - BALIK
+    - KOKMAK
+-
+  word: CANINA KASDETMEK
+  forbidden_words:
+    - TEŞEBBÜS
+    - ÖLDÜRMEK
+    - YARALAMAK
+    - CİNAYET
+-
+  word: SU TOPLAMAK
+  forbidden_words:
+    - YARA
+    - AYAK
+    - YÜRÜMEK
+    - EL
+-
+  word: İSYANKAR
+  forbidden_words:
+    - ASİ
+    - GENÇ
+    - DELİKANLI
+    - BAŞKALDIRMAK
+-
+  word: PUF
+  forbidden_words:
+    - KOLTUK
+    - OTURMAK
+    - MİNDER
+    - YUMUŞAK
+-
+  word: SÜTLİMAN
+  forbidden_words:
+    - SAKİN
+    - SESSİZ
+    - HUZURLU
+    - DURGUN
+-
+  word: MİSTİK
+  forbidden_words:
+    - FAL
+    - DOĞAÜSTÜ
+    - GÜÇ
+    - GİZEM
+-
+  word: GEBE
+  forbidden_words:
+    - HAMİLE
+    - KADIN
+    - BEBEK
+    - DOKUZ AY
+-
+  word: MAESTRO
+  forbidden_words:
+    - ORKESTRA
+    - YÖNETMEN
+    - ŞEF
+    - BESTECİ
+-
+  word: KOKOŞ
+  forbidden_words:
+    - SÜSLÜ
+    - GİYİNMEK
+    - HAVALI
+    - AŞIRI
+-
+  word: SÖĞÜŞ
+  forbidden_words:
+    - DOMATES
+    - SALATALIK
+    - KESMEK
+    - SOĞUK
+-
+  word: TON BALIĞI
+  forbidden_words:
+    - SANDVİÇ
+    - KONSERVE
+    - ORKİNOS
+    - SALATA
+-
+  word: KÜFE
+  forbidden_words:
+    - SEPET
+    - TAŞIMAK
+    - HAMAL
+    - YÜK
+-
+  word: KAYDIRAK
+  forbidden_words:
+    - OYUN
+    - PARK
+    - ÇOCUK
+    - SALINCAK
+-
+  word: KIŞ UYKUSU
+  forbidden_words:
+    - AYI
+    - YATMAK
+    - SOĞUK
+    - SÜRÜNGEN
+-
+  word: MOTİVASYON
+  forbidden_words:
+    - TEŞVİK
+    - KIRMAK
+    - İSTEK
+    - MORAL
+-
+  word: GÖZ KULAK OLMAK
+  forbidden_words:
+    - İLGİLENMEK
+    - ÇOCUK
+    - BAKMAK
+    - KORUMAK
+-
+  word: SULUBOYA
+  forbidden_words:
+    - YAĞLIBOYA
+    - RESİM
+    - FIRÇA
+    - PALET
+-
+  word: BARUT
+  forbidden_words:
+    - FIÇI
+    - ATEŞ
+    - PATLAMAK
+    - TOP
+-
+  word: AĞIRBAŞLI
+  forbidden_words:
+    - CİDDİ
+    - OLGUN
+    - HAREKET
+    - SESSİZ
+-
+  word: ANTİKOR
+  forbidden_words:
+    - HASTALIK
+    - ZARAR
+    - MADDE
+    - VÜCUT
+-
+  word: OBJEKTİF
+  forbidden_words:
+    - FOTOĞRAF
+    - MERCEK
+    - KAMERA
+    - CAM
+-
+  word: MAŞALLAH
+  forbidden_words:
+    - ALTIN
+    - SÜNNET
+    - NAZAR
+    - GÜZEL
+-
+  word: KİLOGRAM
+  forbidden_words:
+    - ÖLÇÜ
+    - TARTMAK
+    - LİTRE
+    - AĞIRLIK
+-
+  word: PARKE
+  forbidden_words:
+    - YER
+    - DÖŞEMEK
+    - LAMİNANT
+    - YÜRÜMEK
+-
+  word: ŞÖLEN
+  forbidden_words:
+    - KUTLAMA
+    - YEMEK
+    - İÇMEK
+    - ZİYAFET
+-
+  word: MUTANT
+  forbidden_words:
+    - X-MEN
+    - NİNJA KAPLUMBAĞALAR
+    - İNSAN
+    - DEĞİŞMEK
+-
+  word: ÇATALHÖYÜK
+  forbidden_words:
+    - ARKEOLOJİ
+    - ANTİK
+    - ANADOLU
+    - ESKİ
+-
+  word: ANANAS
+  forbidden_words:
+    - MEYVE
+    - TROPİKAL
+    - SEBZE
+    - YEMEK
+-
+  word: AŞIK VEYSEL
+  forbidden_words:
+    - MÜZİK
+    - TÜRKÜ
+    - TÜRK
+    - OZAN
+-
+  word: MANGA
+  forbidden_words:
+    - ÇİZGİ ROMAN
+    - ANİMASYON
+    - JAPON
+    - ASKER
+-
+  word: FOKURDAMAK
+  forbidden_words:
+    - KAYNAMAK
+    - SU
+    - BALONCUK
+    - SES ÇIKARMAK
+-
+  word: KOMİ
+  forbidden_words:
+    - GARSON
+    - MUTFAK
+    - LOKANTA
+    - RESTORAN
+-
+  word: MARJ
+  forbidden_words:
+    - KAR
+    - PAY
+    - AYIRMAK
+    - FİYAT
+-
+  word: METEOROLOJİ
+  forbidden_words:
+    - HAVA DURUMU
+    - TAHMİN
+    - YAĞMUR
+    - KAR
+-
+  word: SFENKS
+  forbidden_words:
+    - MISIR
+    - PİRAMİT
+    - İNSAN
+    - ASLAN
+-
+  word: SU AYGIRI
+  forbidden_words:
+    - HİPOPOTAM
+    - MEMELİ
+    - HAYVAN
+    - İRİ
+-
+  word: BABİL KULESİ
+  forbidden_words:
+    - EFSANE
+    - İNŞA ETMEK
+    - TANRI
+    - ULAŞMAK
+-
+  word: AHENK
+  forbidden_words:
+    - UYUM
+    - ŞİİR
+    - SES
+    - DANS
+-
+  word: POKER
+  forbidden_words:
+    - KUMAR
+    - İSKAMBİL KAĞIDI
+    - OYUN
+    - FLOŞ
+-
+  word: ETÜT
+  forbidden_words:
+    - DERS ÇALIŞMAK
+    - ÖĞRETMEN
+    - ÖDEV
+    - OKUL
+-
+  word: ŞEHZADE
+  forbidden_words:
+    - PADİŞAH
+    - ÇOCUK
+    - SULTAN
+    - PRENS
+-
+  word: KAFADAN ATMAK
+  forbidden_words:
+    - UYDURMAK
+    - SALLAMAK
+    - BİLMEK
+    - YALLAH
+-
+  word: EFENDİ
+  forbidden_words:
+    - BEY
+    - SESLENMEK
+    - KİBAR
+    - AĞIRBAŞLI
+-
+  word: AYASOFYA MÜZESİ
+  forbidden_words:
+    - KİLİSE
+    - TURİST
+    - SULTANAHMET
+    - TOPKAPI SARAYI
+-
+  word: PARSEL
+  forbidden_words:
+    - ARSA
+    - SATMAK
+    - BÖLÜM
+    - TAPU
+-
+  word: GÜZELLİK YARIŞMASI
+  forbidden_words:
+    - KRALİÇE
+    - MAYO
+    - KAİNAT
+    - JÜRİ
+-
+  word: POHPOHLAMAK
+  forbidden_words:
+    - ÖVMEK
+    - YALAKALIK
+    - YAĞ ÇEKMEK
+    - GAZA GETİRMEK
+-
+  word: EŞEKARISI
+  forbidden_words:
+    - BÜYÜK
+    - SOKMAK
+    - BAL
+    - KOVAN
+-
+  word: ERTUĞRUL ÖZKÖK
+  forbidden_words:
+    - GAZETECİ
+    - HÜRRİYET
+    - YAZAR
+    - YÖNETİCİ
+-
+  word: BEL BAĞLAMAK
+  forbidden_words:
+    - GÜVENMEK
+    - YARDIM
+    - MEDET UMMAK
+    - İNANMAK
+-
+  word: KOTA
+  forbidden_words:
+    - DOLDURMAK
+    - KONTENJAN
+    - SINIRLAMA
+    - KISITLAMA
+-
+  word: BUZ DEVRİ
+  forbidden_words:
+    - ESKİ ÇAĞ
+    - SOĞUK
+    - ERİMEK
+    - KAR
+-
+  word: İMSAK
+  forbidden_words:
+    - İFTAR
+    - ORUÇ
+    - SAHUR
+    - RAMAZAN
+-
+  word: BAYKUŞ
+  forbidden_words:
+    - HAYVAN
+    - KUŞ
+    - GECE
+    - UÇMAK
+-
+  word: TARAFTAR
+  forbidden_words:
+    - FUTBOL
+    - TAKIM
+    - TUTMAK
+    - FANATİK
+-
+  word: SU BASKINI
+  forbidden_words:
+    - SEL
+    - YAĞMUR
+    - MUSLUK
+    - AÇIK
+-
+  word: ŞEKERPARE
+  forbidden_words:
+    - TATLI
+    - ŞERBET
+    - HAMUR
+    - YUVARLAK
+-
+  word: KÖRDÜĞÜM
+  forbidden_words:
+    - İP
+    - AÇILMAK
+    - KARIŞIK
+    - ÇÖZMEK
+-
+  word: KADEH
+  forbidden_words:
+    - İÇECEK
+    - BARDAK
+    - ŞARAP
+    - CAM
+-
+  word: KALIBINI BASMAK
+  forbidden_words:
+    - SAVUNMAK
+    - İNANMAK
+    - İDDİA
+    - GÜVENMEK
+-
+  word: NEMRUT DAĞI
+  forbidden_words:
+    - ADIYAMAN
+    - ARKEOLOJİ
+    - HEYKEL
+    - GÜNBATIMI
+-
+  word: PALA BIYIK
+  forbidden_words:
+    - SAKAL
+    - YÜZ
+    - YANAK
+    - UZUN
+-
+  word: FELAKET TELLALI
+  forbidden_words:
+    - KÖTÜMSER
+    - ANLATMAK
+    - SÖYLEMEK
+    - HABER
+-
+  word: PEKMEZ
+  forbidden_words:
+    - TAHİN
+    - ÜZÜM
+    - DUT
+    - TATLI
+-
+  word: YOUTUBE
+  forbidden_words:
+    - VİDEO
+    - PAYLAŞMAK
+    - YÜKLEMEK
+    - İNTERNET
+-
+  word: CADI KAZANI
+  forbidden_words:
+    - DÜŞMAN
+    - HİLE
+    - KAYNAMAK
+    - DEDİKODU
+-
+  word: ÇAYIR
+  forbidden_words:
+    - OTLAMAK
+    - İNEK
+    - YEŞİL
+    - ÇİMEN
+-
+  word: KRAVAT
+  forbidden_words:
+    - PAPYON
+    - TAKMAK
+    - GÖMLEK
+    - TAKIM ELBİSE
+-
+  word: TÖKEZLEMEK
+  forbidden_words:
+    - SENDELEMEK
+    - DÜŞMEK
+    - AYAK
+    - TAKILMAK
+-
+  word: LOGO
+  forbidden_words:
+    - ŞİRKET
+    - SEMBOL
+    - İSİM
+    - AMBLEM
+-
+  word: SOLAK
+  forbidden_words:
+    - SAĞLAK
+    - EL
+    - YAZMAK
+    - TUTMAK
+-
+  word: FLORENCE NİGHTİNGALE
+  forbidden_words:
+    - HEMŞİRE
+    - HASTANE
+    - KURMAK
+    - SELİMİYE KIŞLASI
+-
+  word: İZDİVAÇ
+  forbidden_words:
+    - EVLENMEK
+    - YUVA
+    - GELİN
+    - DAMAT
+-
+  word: BENEK
+  forbidden_words:
+    - ÇİL
+    - NOKTA
+    - YÜZ
+    - LEKE
+-
+  word: KABZA
+  forbidden_words:
+    - SİLAH
+    - TABANCA
+    - TUTMAK
+    - SAP
+-
+  word: DOLMABAHÇE SARAYI
+  forbidden_words:
+    - OSMANLI
+    - BEŞİKTAŞ
+    - ATATÜRK
+    - PADİŞAH
+-
+  word: İRMİK
+  forbidden_words:
+    - HELVA
+    - TATLI
+    - BUĞDAY
+    - UN
+-
+  word: HAZIRCEVAP
+  forbidden_words:
+    - SORU
+    - LAF
+    - ÇABUK
+    - BULMAK
+-
+  word: UKRAYNA
+  forbidden_words:
+    - ÜLKE
+    - RUSYA
+    - KİEV
+    - DOĞALGAZ
+-
+  word: ÇAR
+  forbidden_words:
+    - RUSYA
+    - PETRO
+    - PADİŞAH
+    - KRAL
+-
+  word: POST
+  forbidden_words:
+    - HAYVAN
+    - DERİ
+    - YÜZMEK
+    - KÜRK
+-
+  word: LİBERO
+  forbidden_words:
+    - FUTBOL
+    - TAKIM
+    - MAÇ
+    - DEFANS
+-
+  word: DEHLİZ
+  forbidden_words:
+    - KORİDOR
+    - YER ALTI
+    - GİZLİ
+    - KARANLIK
+-
+  word: ÇELİK KASA
+  forbidden_words:
+    - PARA
+    - DEĞERLİ
+    - MÜCEVHER
+    - EV
+-
+  word: MÜJDE AR
+  forbidden_words:
+    - SİNEMA
+    - OYUNCU
+    - SEKSİ
+    - AYSEL GÜRSEL
+-
+  word: FÖN ÇEKMEK
+  forbidden_words:
+    - KUAFÖR
+    - SAÇ
+    - DÜZLEŞTİRMEK
+    - MAKİNE
+-
+  word: FAVORİ
+  forbidden_words:
+    - BİRİNCİ
+    - YARIŞMA
+    - BEĞENMEK
+    - SEVMEK
+-
+  word: BABACAN
+  forbidden_words:
+    - DAVRANMAK
+    - GÜVENMEK
+    - ADAM
+    - ŞEFKAT
+-
+  word: ASPENDOS
+  forbidden_words:
+    - TİYATRO
+    - ANTİK
+    - ANTALYA
+    - AÇIK HAVA
+-
+  word: KÜLAH
+  forbidden_words:
+    - ŞAPKA
+    - KAĞIT
+    - DONDURMA
+    - DEĞİŞMEK
+-
+  word: SLALOM
+  forbidden_words:
+    - KAYAK
+    - KAR
+    - YARIŞ
+    - BAYRAK
+-
+  word: ANTRENMAN
+  forbidden_words:
+    - SPOR
+    - KOŞU
+    - EGZERSİZ
+    - FUTBOLCU
+-
+  word: SAİT FAİK ABASIYANIK
+  forbidden_words:
+    - EDEBİYAT
+    - YAZAR
+    - HİKAYE
+    - TÜRK
+-
+  word: ÇİVİ YAZISI
+  forbidden_words:
+    - İLKÇAĞ
+    - ESKİ
+    - ASUR
+    - SÜMER
+-
+  word: AKROBAT
+  forbidden_words:
+    - GÖSTERİ
+    - YETENEK
+    - SİRK
+    - CAMBAZ
+-
+  word: KOLONYA
+  forbidden_words:
+    - FERAHLIK
+    - SÜRMEK
+    - LİMON
+    - DÖKMEK
+-
+  word: CANNES
+  forbidden_words:
+    - FİLM
+    - FESTİVAL
+    - FRANSA
+    - SAHİL
+-
+  word: ESPRİ YAPMAK
+  forbidden_words:
+    - KOMİK
+    - ŞAKA
+    - ANLATMAK
+    - GÜLMEK
+-
+  word: MAKBUZ
+  forbidden_words:
+    - AİDAT
+    - BAĞIŞ
+    - ÖDEME
+    - KAĞIT
+-
+  word: MÜHİMMAT
+  forbidden_words:
+    - DEPO
+    - SAVAŞ
+    - CEPHANE
+    - ORDU
+-
+  word: GONG
+  forbidden_words:
+    - SES
+    - ZİL
+    - TOKMAK
+    - ÇINLAMAK
+-
+  word: SOĞUK ALGINLIĞI
+  forbidden_words:
+    - NEZLE
+    - ÜŞÜTMEK
+    - HASTA
+    - BURUN
+-
+  word: ÇAĞLAYAN
+  forbidden_words:
+    - ŞELALE
+    - SU
+    - AKMAK
+    - NEHİR
+-
+  word: İMAMBAYILDI
+  forbidden_words:
+    - YEMEK
+    - PATLICAN
+    - ZEYTİNYAĞLI
+    - KARNIYARIK
+-
+  word: MACERA
+  forbidden_words:
+    - OLAY
+    - HEYECAN
+    - ADRENALİN
+    - YAŞAMAK
+-
+  word: AHMET ÇAKAR
+  forbidden_words:
+    - HAKEM
+    - FUTBOL
+    - ERMAN TOROĞLU
+    - YARIŞMA
+-
+  word: KALÇA
+  forbidden_words:
+    - KADIN
+    - SALLAMAK
+    - VÜCUT
+    - BACAK
+-
+  word: HAKARET ETMEK
+  forbidden_words:
+    - KÜFÜR
+    - SÖZ
+    - KÖTÜ
+    - SÖYLEMEK
+-
+  word: KONDİSYON BİSİKLETİ
+  forbidden_words:
+    - SPOR
+    - EV
+    - ÇEVİRMEK
+    - KOŞU BANDI
+-
+  word: PAVURYA
+  forbidden_words:
+    - YENGEÇ
+    - İRİ
+    - BÜYÜK
+    - DENİZ
+-
+  word: PATENT
+  forbidden_words:
+    - ALMAK
+    - TESCİL
+    - BULUŞ
+    - TELİF HAKKI
+-
+  word: ŞİŞİRMEK
+  forbidden_words:
+    - BALON
+    - LASTİK
+    - ÜFLEMEK
+    - POMPA
+-
+  word: HAFRİYAT
+  forbidden_words:
+    - İNŞAAT
+    - TOPRAK
+    - BİNA
+    - KAZMAK
+-
+  word: ASTRONOMİK
+  forbidden_words:
+    - RAKAM
+    - YÜKSEK
+    - PAHALI
+    - AŞIRI
+-
+  word: KAYKAY
+  forbidden_words:
+    - BİNMEK
+    - ÇOCUK
+    - TEKERLEK
+    - TAHTA
+-
+  word: MAVİ YOLCULUK
+  forbidden_words:
+    - EGE
+    - GEZİ
+    - YAT
+    - KİRALAMAK
+-
+  word: BOŞ BULUNMAK
+  forbidden_words:
+    - DİKKATSİZ
+    - DALGIN
+    - DAVRANMAK
+    - SÖYLEMEK
+-
+  word: ORHAN GENCEBAY
+  forbidden_words:
+    - MÜZİSYEN
+    - ARABESK
+    - FERDİ TAYFUR
+    - MÜSLÜM GÜRSES
+-
+  word: DIŞLANMAK
+  forbidden_words:
+    - ARKADAŞ
+    - KONUŞMAK
+    - ATMAK
+    - ALMAK
+-
+  word: NEŞTER
+  forbidden_words:
+    - AMELİYAT
+    - BIÇAK
+    - KESMEK
+    - CERRAH
+-
+  word: ŞEBEKE
+  forbidden_words:
+    - AĞ
+    - DONANIM
+    - ÖRGÜT
+    - ELEKTRİK
+-
+  word: YAREN
+  forbidden_words:
+    - DOST
+    - ARKADAŞ
+    - SEVGİLİ
+    - YAKIN
+-
+  word: SERE SERPE
+  forbidden_words:
+    - GÜNEŞLENMEK
+    - YATMAK
+    - RAHAT
+    - AÇIK SAÇIK
+-
+  word: TOKYO
+  forbidden_words:
+    - ŞEHİR
+    - JAPONYA
+    - ADA
+    - ASYA
+-
+  word: İÇİNE DOĞMAK
+  forbidden_words:
+    - HİSSETMEK
+    - ÖNCE
+    - BİLMEK
+    - MALUM OLMAK
+-
+  word: BANKO
+  forbidden_words:
+    - KESİN
+    - AT YARIŞI
+    - KAZANMAK
+    - BAHİS
+-
+  word: PİSBOĞAZ
+  forbidden_words:
+    - OBUR
+    - YEMEK
+    - AÇGÖZLÜ
+    - TOK
+-
+  word: ÇOBANYILDIZI
+  forbidden_words:
+    - GÖKYÜZÜ
+    - GECE
+    - YÖN
+    - PARLAK
+-
+  word: ALASKA
+  forbidden_words:
+    - FRİGO
+    - AMERİKA
+    - SOĞUK
+    - EYALET
+-
+  word: BEYZBOL
+  forbidden_words:
+    - SPOR
+    - AMERİKA
+    - TOP
+    - VURMAK
+-
+  word: GÖRGÜ KURALLARI
+  forbidden_words:
+    - ADAP
+    - SAYGI
+    - TERBİYE
+    - TOPLUM
+-
+  word: ÇİÇEK PASAJI
+  forbidden_words:
+    - İSTANBUL
+    - BEYOĞLU
+    - NEVİZADE
+    - YEMEK
+-
+  word: KAĞIT HELVA
+  forbidden_words:
+    - YİYECEK
+    - TATLI
+    - YUVARLAK
+    - DONDURMA
+-
+  word: DAMLA
+  forbidden_words:
+    - SU
+    - MUSLUK
+    - GÖZ
+    - YAĞMUR
+-
+  word: DENEY
+  forbidden_words:
+    - KİMYA
+    - LABORATUAR
+    - FARE
+    - BİLİM
+-
+  word: TUŞ KİLİDİ
+  forbidden_words:
+    - TELEFON
+    - AÇIK
+    - KAPALI
+    - BASMAK
+-
+  word: MİLADİ TAKVİM
+  forbidden_words:
+    - GÜN
+    - AY
+    - ZAMAN
+    - AJANDA
+-
+  word: KÖŞE BUCAK
+  forbidden_words:
+    - KAÇMAK
+    - TEMİZLEMEK
+    - HER YER
+    - SAKLANMAK
+-
+  word: RENGİ ATMAK
+  forbidden_words:
+    - KORKMAK
+    - YIKAMAK
+    - SOLMAK
+    - YÜZ
+-
+  word: ALP ARSLAN
+  forbidden_words:
+    - SELÇUKLU
+    - HÜKÜMDAR
+    - TÜRK
+    - ANADOLU
+-
+  word: KOLERA
+  forbidden_words:
+    - HASTALIK
+    - SALGIN
+    - TİFO
+    - İSHAL
+-
+  word: EBEVEYN
+  forbidden_words:
+    - ANNE
+    - BABA
+    - ÇOCUK
+    - AİLE
+-
+  word: FRAPAN
+  forbidden_words:
+    - ELBİSE
+    - GİYSİ
+    - DİKKAT ÇEKİCİ
+    - RÜKÜŞ
+-
+  word: KONTAK
+  forbidden_words:
+    - KAFA
+    - LENS
+    - ANAHTAR
+    - ARABA
+-
+  word: MURATHAN MUNGAN
+  forbidden_words:
+    - EDEBİYAT
+    - ŞAİR
+    - ROMAN
+    - YAZAR
+-
+  word: BACANAK
+  forbidden_words:
+    - EŞ
+    - KARDEŞ
+    - BALDIZ
+    - KOCA
+-
+  word: PSİKOLOJİ
+  forbidden_words:
+    - SOSYOLOJİ
+    - PSİKİYATRİ
+    - RUHBİLİM
+    - DEPRESYON
+-
+  word: RİZİKO
+  forbidden_words:
+    - RİSK
+    - ZARAR
+    - TEHLİKE
+    - YARIŞMA
+-
+  word: DALGAKIRAN
+  forbidden_words:
+    - DENİZ
+    - BETON
+    - KAYA
+    - TEKNE
+-
+  word: REHİN VERMEK
+  forbidden_words:
+    - KUYUMCU
+    - BORÇ
+    - PARA
+    - MÜCEVHER
+-
+  word: ZORUNA GİTMEK
+  forbidden_words:
+    - BOZULMAK
+    - ÜZÜLMEK
+    - GÜCÜNE GİTMEK
+    - DOKUNMAK
+-
+  word: ROKET
+  forbidden_words:
+    - FÜZE
+    - ATMAK
+    - SAVAŞ
+    - SİLAH
+-
+  word: KARİDES
+  forbidden_words:
+    - DENİZ
+    - KABUKLU
+    - JUMBO
+    - ISTAKOZ
+-
+  word: DEJENERE
+  forbidden_words:
+    - BOZULMAK
+    - GENÇLİK
+    - YOZLAŞMAK
+    - NESİL
+-
+  word: ÇERKEZTAVUĞU
+  forbidden_words:
+    - YEMEK
+    - CEVİZ
+    - MEZE
+    - DİDİKLEMEK
+-
+  word: İÇERLEMEK
+  forbidden_words:
+    - ALINMAK
+    - GÜCENMEK
+    - ÜZÜLMEK
+    - DARILMAK
+-
+  word: HEYBE
+  forbidden_words:
+    - ÇANTA
+    - TORBA
+    - EŞEK
+    - TAŞIMAK
+-
+  word: PANSUMAN
+  forbidden_words:
+    - YARA
+    - TEMİZLEMEK
+    - BAKMAK
+    - HEMŞİRE
+-
+  word: ZAMANE
+  forbidden_words:
+    - ÇOCUK
+    - BUGÜN
+    - GENÇ
+    - ŞİMDİ
+-
+  word: ASMA YAPRAĞI
+  forbidden_words:
+    - ÜZÜM
+    - DOLMA
+    - ŞARAP
+    - SARMA
+-
+  word: SEMER
+  forbidden_words:
+    - EYER
+    - EŞEK
+    - AT
+    - SIRT
+-
+  word: MUŞMULA
+  forbidden_words:
+    - BİTKİ
+    - AĞAÇ
+    - MEYVE
+    - BURUŞUK
+-
+  word: YAZLIK
+  forbidden_words:
+    - EV
+    - OTURMAK
+    - GİTMEK
+    - DENİZ
+-
+  word: VOKAL
+  forbidden_words:
+    - SES
+    - ŞARKI
+    - SÖYLEMEK
+    - MÜZİK
+-
+  word: JAMBON
+  forbidden_words:
+    - KAHVALTI
+    - SALAM
+    - ET
+    - SANDVİÇ
+-
+  word: ULTRASON
+  forbidden_words:
+    - BAKMAK
+    - BEBEK
+    - HAMİLE
+    - ÇEKTİRMEK
+-
+  word: ALYUVAR
+  forbidden_words:
+    - KAN
+    - DAMAR
+    - KIRMIZI
+    - HÜCRE
+-
+  word: TEZKERE
+  forbidden_words:
+    - ASKERLİK
+    - BİTİRMEK
+    - BELGE
+    - KAĞIT
+-
+  word: DÜZ TABAN
+  forbidden_words:
+    - ASKERLİK
+    - AYAK
+    - YÜRÜMEK
+    - ORTOPEDİ
+-
+  word: KAYMAKAM
+  forbidden_words:
+    - VALİ
+    - İLÇE
+    - YÖNETMEK
+    - MEMUR
+-
+  word: KALAY
+  forbidden_words:
+    - BAKIR
+    - TENCERE
+    - KAP KACAK
+    - AZARLAMAK
+-
+  word: İLMEK
+  forbidden_words:
+    - DÜĞÜM
+    - HALI
+    - ÖRMEK
+    - ŞİŞ
+-
+  word: KANALİZASYON
+  forbidden_words:
+    - LAĞIM
+    - TUVALET
+    - PİS
+    - SU
+-
+  word: MAHSUL
+  forbidden_words:
+    - ÜRÜN
+    - TARLA
+    - TOPLAMAK
+    - VERİM
+-
+  word: BURNUNDAN GETİRMEK
+  forbidden_words:
+    - RAHATSIZ ETMEK
+    - FİTİL FİTİL
+    - PİŞMAN ETMEK
+    - BOZMAK
+-
+  word: CEZVE
+  forbidden_words:
+    - KAHVE
+    - FAL
+    - PİŞİRMEK
+    - SAP
+-
+  word: BAHANE
+  forbidden_words:
+    - ARAMAK
+    - UYDURMAK
+    - YALAN
+    - SEBEP
+-
+  word: KONFETİ
+  forbidden_words:
+    - KAĞIT
+    - MAÇ
+    - RENKLİ
+    - ATMAK
+-
+  word: GANİMET
+  forbidden_words:
+    - SAVAŞ
+    - TOPLAMAK
+    - YAĞMA
+    - KORSAN
+-
+  word: JOHN LENNON
+  forbidden_words:
+    - MÜZİSYEN
+    - BEATLES
+    - YOKO ONO
+    - ŞARKICI
+-
+  word: FACEBOOK
+  forbidden_words:
+    - İNTERNET
+    - ARKADAŞLIK
+    - SİTE
+    - FOTOĞRAF
+-
+  word: TEKZİP
+  forbidden_words:
+    - YALANLAMAK
+    - GERÇEK
+    - GAZETE
+    - YAYINLAMAK
+-
+  word: ZİGON
+  forbidden_words:
+    - MOBİLYA
+    - İÇ İÇE
+    - SEHPA
+    - MİSAFİR
+-
+  word: KOALA
+  forbidden_words:
+    - AVUSTRALYA
+    - HAYVAN
+    - AYI
+    - OKALİPTÜS
+-
+  word: SEÇENEK
+  forbidden_words:
+    - ŞIK
+    - SINAV
+    - OPSİYON
+    - ALTERNATİF
+-
+  word: KUBBE
+  forbidden_words:
+    - CAMİİ
+    - YUVARLAK
+    - AYASOFYA
+    - KÜRE
+-
+  word: HEIDI KLUM
+  forbidden_words:
+    - MANKEN
+    - TOP MODEL
+    - SEAL
+    - DEFİLE
+-
+  word: ÇEMEN
+  forbidden_words:
+    - PASTIRMA
+    - ACI
+    - SOS
+    - SÜRMEK
+-
+  word: DENİZKESTANESİ
+  forbidden_words:
+    - BATMAK
+    - DİKEN
+    - KABUK
+    - AYAK
+-
+  word: CASUS
+  forbidden_words:
+    - JAMES BOND
+    - GİZLİ
+    - AJAN
+    - MATA HARI
+-
+  word: KUVAY-I MİLLİYE
+  forbidden_words:
+    - KURTULUŞ SAVAŞI
+    - MUSTAFA KEMAL ATATÜRK
+    - ORDU
+    - HALK
+-
+  word: SATIR
+  forbidden_words:
+    - BIÇAK
+    - ET
+    - DOĞRAMAK
+    - YAZI
+-
+  word: LEHİMLEMEK
+  forbidden_words:
+    - YAPIŞTIRMAK
+    - TUTTURMAK
+    - METAL
+    - PARÇA
+-
+  word: EĞİLİM
+  forbidden_words:
+    - İLGİ
+    - YÖNETMEK
+    - MERAK
+    - MEYİL
+-
+  word: DİNOZOR
+  forbidden_words:
+    - TÜKENMEK
+    - HAYVAN
+    - JURRASIC PARK
+    - FOSİL
+-
+  word: OKLAVA
+  forbidden_words:
+    - HAMUR
+    - AÇMAK
+    - BÖREK
+    - MERDANE
+-
+  word: KÜLBASTI
+  forbidden_words:
+    - ET
+    - PİRZOLA
+    - IZGARA
+    - KEMİKSİZ
+-
+  word: PLANÖR
+  forbidden_words:
+    - UÇMAK
+    - HAVA
+    - GÖKYÜZÜ
+    - MOTOR
+-
+  word: FETHİYE
+  forbidden_words:
+    - MUĞLA
+    - ÖLÜDENİZ
+    - TATİL
+    - AKDENİZ
+-
+  word: LATİN AMERİKA
+  forbidden_words:
+    - GÜNEY
+    - KITA
+    - BREZİLYA
+    - ÜLKE
+-
+  word: CANLI YAYIN
+  forbidden_words:
+    - TELEVİZYON
+    - NAKLEN
+    - HABER
+    - BAĞLANMAK
+-
+  word: LCD EKRAN
+  forbidden_words:
+    - TELEVİZYON
+    - BİLGİSAYAR
+    - PLAZMA
+    - İNCE
+-
+  word: GASTRONOMİ
+  forbidden_words:
+    - YEMEK
+    - BİLİM
+    - AŞÇI
+    - MUTFAK
+-
+  word: GOTİK
+  forbidden_words:
+    - ORTAÇAĞ
+    - MİMARİ
+    - GENÇLİK
+    - SİYAH
+-
+  word: ELİŞİ
+  forbidden_words:
+    - DANTEL
+    - ÖRGÜ
+    - ÇEYİZ
+    - OKUL
+-
+  word: GELİNLİK
+  forbidden_words:
+    - EVLİLİK
+    - DUVAK
+    - GİYMEK
+    - BEYAZ
+-
+  word: KRATER
+  forbidden_words:
+    - AY
+    - GÖKTAŞI
+    - ÇUKUR
+    - YANARDAĞ
+-
+  word: NARSİST
+  forbidden_words:
+    - HAYRAN
+    - BENCİL
+    - EGOİST
+    - SEVMEK
+-
+  word: EKÜRİ
+  forbidden_words:
+    - AT
+    - İKİLİ
+    - ARKADAŞ
+    - YARIŞ
+-
+  word: HEBA ETMEK
+  forbidden_words:
+    - ZARAR
+    - HARCAMAK
+    - ZİYAN ETMEK
+    - YİTİRMEK
+-
+  word: TESTERE
+  forbidden_words:
+    - FİLM
+    - KORKU
+    - ALET
+    - KESMEK
+-
+  word: KLİP
+  forbidden_words:
+    - MÜZİK
+    - VİDEO
+    - TELEVİZYON
+    - İZLEMEK
+-
+  word: TÖREN
+  forbidden_words:
+    - BAYRAK
+    - NİKAH
+    - RESMİ
+    - AÇILIŞ
+-
+  word: PARMESAN
+  forbidden_words:
+    - PEYNİR
+    - SALATA
+    - İTALYAN
+    - MAKARNA
+-
+  word: AFACAN
+  forbidden_words:
+    - YARAMAZ
+    - ÇOCUK
+    - ZEKİ
+    - KARIŞTIRMAK
+-
+  word: AMBARGO
+  forbidden_words:
+    - KOYMAK
+    - ENGELLEMEK
+    - ÜLKE
+    - TİCARET
+-
+  word: SANDIK
+  forbidden_words:
+    - ÇEYİZ
+    - TAHTA
+    - EŞYA
+    - SEÇİM
+-
+  word: BEŞAMEL
+  forbidden_words:
+    - SOS
+    - ET
+    - TAVUK
+    - UN
+-
+  word: İÇİ GEÇMEK
+  forbidden_words:
+    - UYUMAK
+    - İSTEMEK
+    - YATMAK
+    - İSTEKSİZ
+-
+  word: İSPANYOL PAÇA
+  forbidden_words:
+    - PANTOLON
+    - KOT
+    - GENİŞ
+    - UÇ
+-
+  word: SÜLALE
+  forbidden_words:
+    - AİLE
+    - AKRABA
+    - SOY
+    - TEYZE
+-
+  word: SARPA SARMAK
+  forbidden_words:
+    - KARIŞMAK
+    - ÇÖZMEK
+    - İŞ
+    - BOZULMAK
+-
+  word: GETTO
+  forbidden_words:
+    - MAHALLE
+    - ŞEHİR
+    - AZINLIK
+    - YABANCI
+-
+  word: İFLAS ETMEK
+  forbidden_words:
+    - HACİZ
+    - BANKA
+    - ŞİRKET
+    - BORÇ
+-
+  word: AÇIK FİKİRLİ
+  forbidden_words:
+    - ANLAMAK
+    - MODERN
+    - YENİLİK
+    - DÜŞÜNMEK
+-
+  word: ÇULLANMAK
+  forbidden_words:
+    - ABANMAK
+    - ÜZERİNE GİTMEK
+    - ÜSTÜNE DÜŞMEK
+    - ATLAMAK
+-
+  word: JUSTIN TIMBERLAKE
+  forbidden_words:
+    - ŞARKICI
+    - AMERİKA
+    - DANS
+    - ERKEK
+-
+  word: KABAKULAK
+  forbidden_words:
+    - ÇOCUK
+    - HASTALIK
+    - KIZAMIK
+    - SUÇİÇEĞİ
+-
+  word: GARANTİ BELGESİ
+  forbidden_words:
+    - BOZULMAK
+    - TAMİR
+    - YIL
+    - TAAHHÜT
+-
+  word: EMRİVAKİ YAPMAK
+  forbidden_words:
+    - OLDUBİTTİ
+    - ANİ
+    - ACELE
+    - KARGAŞA
+-
+  word: ROKFOR
+  forbidden_words:
+    - PEYNİR
+    - KÜF
+    - SÜT
+    - FRANSIZ
+-
+  word: HİLAL
+  forbidden_words:
+    - AY
+    - ŞEKİL
+    - DOLUNAY
+    - YILDIZ
+-
+  word: ABONE
+  forbidden_words:
+    - DERGİ
+    - AY
+    - GAZETE
+    - GELMEK
+-
+  word: SİVİL TOPLUM
+  forbidden_words:
+    - ÖRGÜT
+    - DEVLET
+    - BAĞIMSIZ
+    - DERNEK
+-
+  word: DONMAK
+  forbidden_words:
+    - BUZ
+    - SIFIR
+    - DERECE
+    - SU
+-
+  word: KAFA DENGİ
+  forbidden_words:
+    - ARKADAŞ
+    - UYUMLU
+    - ANLAŞMAK
+    - AYNI
+-
+  word: SÜVARİ
+  forbidden_words:
+    - AT
+    - ASKER
+    - BİNMEK
+    - SAVAŞ
+-
+  word: SÜKUNET
+  forbidden_words:
+    - DURGUN
+    - SESSİZ
+    - HUZURLU
+    - DİNGİN
+-
+  word: BAŞI BAĞLI
+  forbidden_words:
+    - EVLİ
+    - NİŞANLI
+    - SÖZLÜ
+    - BEKAR
+-
+  word: LÜLETAŞI
+  forbidden_words:
+    - PİPO
+    - BEYAZ
+    - OYMAK
+    - YUMUŞAK
+-
+  word: SUSPUS
+  forbidden_words:
+    - SİNMEK
+    - KONUŞMAK
+    - SESSİZ
+    - SUÇLU
+-
+  word: JANT
+  forbidden_words:
+    - ARABA
+    - PARÇA
+    - TEKERLEK
+    - LASTİK
+-
+  word: MESULİYET
+  forbidden_words:
+    - SORUMLULUK
+    - GÖREV
+    - İLGİ
+    - YÜKLENMEK
+-
+  word: PASAJ
+  forbidden_words:
+    - ÇARŞI
+    - DÜKKAN
+    - BEYOĞLU
+    - ALIŞVERİŞ
+-
+  word: NOEL BABA
+  forbidden_words:
+    - YILBAŞI
+    - HEDİYE
+    - REN GEYİĞİ
+    - BACA
+-
+  word: AT GÖZLÜĞÜ
+  forbidden_words:
+    - SABİT FİKİRLİ
+    - DÜŞÜNMEK
+    - BAKMAK
+    - DAR
+-
+  word: BAŞA ÇIKMAK
+  forbidden_words:
+    - GÜÇ
+    - YETMEK
+    - BAŞARMAK
+    - ÜSTESİNDEN GELMEK
+-
+  word: LOKAL
+  forbidden_words:
+    - ANESTEZİ
+    - ULUSLARARASI
+    - DERNEK
+    - GECE KULÜBÜ
+-
+  word: PİYON
+  forbidden_words:
+    - SATRANÇ
+    - TAŞ
+    - ŞAH
+    - VEZİR
+-
+  word: ŞAHİN
+  forbidden_words:
+    - KARTAL
+    - DOĞAN
+    - KUŞ
+    - YIRTICI
+-
+  word: FOBİ
+  forbidden_words:
+    - KORKU
+    - ÖRÜMCEK
+    - YÜKSEKLİK
+    - AŞIRI
+-
+  word: VAKIF
+  forbidden_words:
+    - HAYIR İŞİ
+    - BAĞIŞ
+    - KURULUŞ
+    - DERNEK
+-
+  word: TOLERANS
+  forbidden_words:
+    - HOŞGÖRÜ
+    - ANLAYIŞ
+    - GÖSTERMEK
+    - MÜSAMAHA
+-
+  word: RASTGELE
+  forbidden_words:
+    - HERHANGİ
+    - GELİŞİGÜZEL
+    - SEÇMEK
+    - SESLENMEK
+-
+  word: AFİŞ
+  forbidden_words:
+    - ASMAK
+    - DUVAR
+    - KONSER
+    - SİNEMA
+-
+  word: FONDÖTEN
+  forbidden_words:
+    - MAKYAJ
+    - SÜRMEK
+    - YÜZ
+    - KAPATICI
+-
+  word: TEDBİRLİ
+  forbidden_words:
+    - ÖNLEMEK
+    - HAZIRLIKLI
+    - ALMAK
+    - ÖNCE
+-
+  word: ÇAKIŞMAK
+  forbidden_words:
+    - ÜST ÜSTE
+    - AYNI
+    - ZAMAN
+    - DENK GELMEK
+-
+  word: IZGARA
+  forbidden_words:
+    - MANGAL
+    - PİŞİRMEK
+    - ET
+    - TAVUK
+-
+  word: FENG SHUI
+  forbidden_words:
+    - DEKORASYON
+    - TARZ
+    - UZAK DOĞU
+    - MEKAN
+-
+  word: ORHAN PAMUK
+  forbidden_words:
+    - ROMAN
+    - NOBEL
+    - YAZAR
+    - BENİM ADIM KIRMIZI
+-
+  word: HOROZLANMAK
+  forbidden_words:
+    - DAYILANMAK
+    - KAFA TUTMAK
+    - DİKLEŞMEK
+    - KAVGA
+-
+  word: MEKİK ÇEKMEK
+  forbidden_words:
+    - KARIN KASI
+    - EGZERSİZ
+    - GÖBEK
+    - SPOR
+-
+  word: OYUN HAVASI
+  forbidden_words:
+    - GÖBEK
+    - DANS ETMEK
+    - ORYANTAL
+    - MÜZİK
+-
+  word: ELİ SIKI
+  forbidden_words:
+    - CİMRİ
+    - PARA
+    - HARCAMAK
+    - BİRİKTİRMEK
+-
+  word: GIDIK
+  forbidden_words:
+    - ÖPMEK
+    - BEBEK
+    - ÇENE
+    - GERDAN
+-
+  word: YETİNMEK
+  forbidden_words:
+    - AZ
+    - ÇOK
+    - İSTEMEK
+    - İDARE ETMEK
+-
+  word: MAGMA
+  forbidden_words:
+    - YER ALTI
+    - VOLKAN
+    - ERİMEK
+    - YANARDAĞ
+-
+  word: KÖÇEK
+  forbidden_words:
+    - DANSÖZ
+    - ORYANTAL
+    - OYNAMAK
+    - DÜĞÜN
+-
+  word: JACK SPARROW
+  forbidden_words:
+    - JOHNY DEPP
+    - KARAYİP
+    - KORSAN
+    - KAPTAN
+-
+  word: KISITLI
+  forbidden_words:
+    - İMKAN
+    - AZ
+    - SINIRLI
+    - YOKLUK
+-
+  word: NEJAT İŞLER
+  forbidden_words:
+    - AKTÖR
+    - SİNEMA
+    - DİZİ
+    - BARDA
+-
+  word: PAÇANGA BÖREĞİ
+  forbidden_words:
+    - PASTIRMA
+    - MEYHANE
+    - MEZE
+    - YEMEK
+-
+  word: RİMEL
+  forbidden_words:
+    - GÖZ
+    - MAKYAJ
+    - KADIN
+    - SÜRMEK
+-
+  word: KÜÇÜK DÜŞÜRMEK
+  forbidden_words:
+    - DALGA GEÇMEK
+    - GÜLMEK
+    - ALAY
+    - AŞAĞILAMAK
+-
+  word: HOVARDA
+  forbidden_words:
+    - ÇAPKIN
+    - SEVGİLİ
+    - GECE
+    - PARA HARCAMAK
+-
+  word: TEFLON
+  forbidden_words:
+    - EMAYE
+    - TAVA
+    - YAPIŞMAK
+    - ÇELİK
+-
+  word: AVUÇ
+  forbidden_words:
+    - EL
+    - AÇMAK
+    - DİLENCİ
+    - FAL
+-
+  word: DAYANIKLI
+  forbidden_words:
+    - EŞYA
+    - SAĞLAM
+    - KIRILMAK
+    - BOZULMAK
+-
+  word: AVUCUNU YALAMAK
+  forbidden_words:
+    - ALMAK
+    - KALMAK
+    - KAYBETMEK
+    - İSTEMEK
+-
+  word: UZANMAK
+  forbidden_words:
+    - YORGUN
+    - HASTA
+    - YATMAK
+    - TV
+-
+  word: ENDAMLI
+  forbidden_words:
+    - UZUN
+    - GÖSTERİŞLİ
+    - BOYLU POSLU
+    - GÜZEL
+-
+  word: NEON
+  forbidden_words:
+    - IŞIK
+    - TABELA
+    - RENKLİ
+    - LAMBA
+-
+  word: BANLİYÖ
+  forbidden_words:
+    - TAŞRA
+    - MERKEZ
+    - UZAK
+    - OTURMAK
+-
+  word: SAF KAN
+  forbidden_words:
+    - AT
+    - CİNS
+    - IRK
+    - ÖZELLİK
+-
+  word: İPUCU
+  forbidden_words:
+    - DEDEKTİF
+    - POLİS
+    - ÇÖZMEK
+    - DELİL
+-
+  word: KÜRE
+  forbidden_words:
+    - DAİRE
+    - FAL
+    - DÜNYA
+    - YUVARLAK
+-
+  word: SAĞANAK
+  forbidden_words:
+    - YAĞMUR
+    - HAVA
+    - KAR
+    - BULUT
+-
+  word: LEHÇE
+  forbidden_words:
+    - DİL
+    - KONUŞMAK
+    - ŞİVE
+    - AĞIZ
+-
+  word: BAHSE GİRMEK
+  forbidden_words:
+    - İDDİA
+    - AT YARIŞI
+    - MAÇ
+    - PARA
+-
+  word: MAMA SANDALYESİ
+  forbidden_words:
+    - BEBEK
+    - YEMEK
+    - OTURMAK
+    - YÜKSEK
+-
+  word: TAARRUZ
+  forbidden_words:
+    - SALDIRI
+    - ESKİ
+    - SAVAŞ
+    - EMRİ
+-
+  word: KULAK ZARI
+  forbidden_words:
+    - ORGAN
+    - DUYMAK
+    - PATLAMAK
+    - YÜZ
+-
+  word: HIMBIL
+  forbidden_words:
+    - YAVAŞ
+    - TEMBEL
+    - UYUŞUK
+    - HAREKET
+-
+  word: REKABET
+  forbidden_words:
+    - HIRS
+    - ÇEKİŞME
+    - YARIŞMA
+    - RAKİP
+-
+  word: FEMİNİST
+  forbidden_words:
+    - KADIN
+    - HAK
+    - SAVUNMAK
+    - EŞİTLİK
+-
+  word: ENDOSKOPİ
+  forbidden_words:
+    - AĞIZ
+    - KAMERA
+    - MİDE
+    - BORU
+-
+  word: MİMİK
+  forbidden_words:
+    - YÜZ
+    - ANLATMAK
+    - İFADE
+    - HAREKET
+-
+  word: AFYON
+  forbidden_words:
+    - ŞEHİR
+    - SUCUK
+    - HAŞHAŞ
+    - KAYMAK
+-
+  word: NAİF
+  forbidden_words:
+    - SAF
+    - HASSAS
+    - DUYGUSAL
+    - MASUM
+-
+  word: KARBONHİDRAT
+  forbidden_words:
+    - KALORİ
+    - EKMEK
+    - DİYET
+    - MAKARNA
+-
+  word: SENDROM
+  forbidden_words:
+    - BELİRTİ
+    - HASTALIK
+    - BUNALIM
+    - PAZARTESİ
+-
+  word: KİNAYE
+  forbidden_words:
+    - İĞNELEME
+    - DOLAYLI
+    - İMA ETME
+    - ÜSTÜ KAPALI
+-
+  word: ÇİZMEYİ AŞMAK
+  forbidden_words:
+    - İLERİ GİTMEK
+    - HADDİNİ AŞMAK
+    - SINIR
+    - BİLMEK
+-
+  word: TAVUKGÖĞSÜ
+  forbidden_words:
+    - TATLI
+    - SÜT
+    - MUHALLEBİ
+    - KAZANDİBİ
+-
+  word: BUZ DAĞI
+  forbidden_words:
+    - ICEBERG
+    - TİTANİK
+    - KUTUP
+    - DENİZ
+-
+  word: DİSKO
+  forbidden_words:
+    - DANS
+    - MÜZİK
+    - EĞLENMEK
+    - GECE
+-
+  word: YENİYETME
+  forbidden_words:
+    - ÇOCUK
+    - DELİKANLI
+    - YAŞLI
+    - GENÇ
+-
+  word: HORON
+  forbidden_words:
+    - KARADENİZ
+    - LAZ
+    - TULUM
+    - TEPMEK
+-
+  word: MÜLAKAT
+  forbidden_words:
+    - SORU SORMAK
+    - GÖRÜŞME
+    - İŞE ALMAK
+    - RÖPORTAJ
+-
+  word: PİŞMANİYE
+  forbidden_words:
+    - YİYECEK
+    - TEL TEL
+    - TATLI
+    - İZMİT
+-
+  word: İMA ETMEK
+  forbidden_words:
+    - DOKUNDURMAK
+    - DOĞRUDAN
+    - DOLAYLI
+    - SEZDİRMEK
+-
+  word: STRAPLEZ
+  forbidden_words:
+    - BLUZ
+    - ÜST
+    - ASKI
+    - OMUZ
+-
+  word: AĞIR AKSAK
+  forbidden_words:
+    - YAVAŞ
+    - DÜZENSİZ
+    - HIZLI
+    - DÖRTNALA
+-
+  word: ISMARLAMAK
+  forbidden_words:
+    - İSTEMEK
+    - PARA
+    - YEMEK
+    - SİPARİŞ
+-
+  word: YALAP ŞAP
+  forbidden_words:
+    - ÜSTÜNKÖRÜ
+    - GELİŞİGÜZEL
+    - TEMİZLİK
+    - İŞ
+-
+  word: ZONKLAMAK
+  forbidden_words:
+    - BAŞ AĞRISI
+    - VURMAK
+    - AĞRIMAK
+    - ŞAKAK
+-
+  word: KRİZ MASASI
+  forbidden_words:
+    - BELEDİYE
+    - KURUL
+    - FELAKET
+    - DEPREM
+-
+  word: YIL DÖNÜMÜ
+  forbidden_words:
+    - KUTLAMA
+    - EVLİLİK
+    - ÖLÜM
+    - GÜN
+-
+  word: TANRI MİSAFİRİ
+  forbidden_words:
+    - KONUK
+    - EV
+    - GELMEK
+    - BEKLEMEK
+-
+  word: MAHCUP
+  forbidden_words:
+    - ÇEKİNGEN
+    - UTANGAÇ
+    - GÜVENSİZ
+    - RAHAT
+-
+  word: ALAKART MÖNÜ
+  forbidden_words:
+    - AÇIK BÜFE
+    - FİKS MÖNÜ
+    - SEÇMEK
+    - RESTORAN
+-
+  word: KAMAROT
+  forbidden_words:
+    - GEMİ
+    - YOLCU
+    - SERVİS
+    - GÖREVLİ
+-
+  word: JÖN TÜRKLER
+  forbidden_words:
+    - OSMANLI
+    - MEŞRUTİYET
+    - AYDIN
+    - TOPLULUK
+-
+  word: EĞİK
+  forbidden_words:
+    - DÜZ
+    - ÇİZGİ
+    - DİK
+    - YAMUK
+-
+  word: SLOGAN
+  forbidden_words:
+    - ATMAK
+    - MİTİNG
+    - PARTİ
+    - PROPAGANDA
+-
+  word: KAFA TUTMAK
+  forbidden_words:
+    - KAVGA ETMEK
+    - TARTIŞMAK
+    - KARŞI GELMEK
+    - BOYUN EĞMEK
+-
+  word: BOĞA
+  forbidden_words:
+    - HAYVAN
+    - KIRMIZI
+    - MATADOR
+    - BURÇ
+-
+  word: PASKALYA
+  forbidden_words:
+    - BAHAR
+    - ÇÖREK
+    - YUMURTA
+    - HRİSTİYAN
+-
+  word: ABSÜRT
+  forbidden_words:
+    - SAÇMA
+    - KOMEDİ
+    - UYUMSUZ
+    - TUTARSIZ
+-
+  word: ATEŞKES
+  forbidden_words:
+    - SAVAŞ
+    - BARIŞ
+    - BİTİRMEK
+    - TESLİM OLMAK
+-
+  word: KÖSE
+  forbidden_words:
+    - KILSIZ
+    - BIYIK
+    - SAKAL
+    - TÜY
+-
+  word: AĞAÇKAKAN
+  forbidden_words:
+    - HAYVAN
+    - KUŞ
+    - GAGA
+    - OYMAK
+-
+  word: KITLAMA
+  forbidden_words:
+    - ÇAY
+    - İÇMEK
+    - ŞEKER
+    - ISIRMAK
+-
+  word: REST ÇEKMEK
+  forbidden_words:
+    - POKER
+    - HEPSİ
+    - PARA
+    - SON VERMEK
+-
+  word: KONTRBAS
+  forbidden_words:
+    - ENSTRÜMAN
+    - MÜZİK
+    - ALET
+    - KEMAN
+-
+  word: WOLVERINE
+  forbidden_words:
+    - KURT ADAM
+    - PENÇE
+    - X-MEN
+    - MUTASYON
+-
+  word: RACON
+  forbidden_words:
+    - KESMEK
+    - KABADAYI
+    - ARGO
+    - FİYAKA
+-
+  word: TIRSMAK
+  forbidden_words:
+    - KORKMAK
+    - ÇEKİNMEK
+    - ÜRKMEK
+    - CESARET
+-
+  word: BONO
+  forbidden_words:
+    - U2
+    - SOLİST
+    - TAHVİL
+    - KAĞIT
+-
+  word: GEORGE LUCAS
+  forbidden_words:
+    - YÖNETMEN
+    - SİNEMA
+    - STAR WARS
+    - INDIANA JONES
+-
+  word: KOLAÇAN ETMEK
+  forbidden_words:
+    - DEVRİYE
+    - DOLAŞMAK
+    - ETRAF
+    - BAKMAK
+-
+  word: ZULA
+  forbidden_words:
+    - SAKLAMAK
+    - GİZLİ
+    - KOYMAK
+    - KAÇAK
+-
+  word: LİNYİT
+  forbidden_words:
+    - KÖMÜR
+    - MADEN
+    - ZONGULDAK
+    - SOBA
+-
+  word: İHTİMAL
+  forbidden_words:
+    - BELKİ
+    - OLASI
+    - VERMEMEK
+    - OLMAK
+-
+  word: EFOR
+  forbidden_words:
+    - GÜÇ
+    - ÇABA
+    - HARCAMAK
+    - KALP
+-
+  word: DOLAP BEYGİRİ
+  forbidden_words:
+    - DÖNMEK
+    - BAĞLAMAK
+    - AT
+    - EŞEK
+-
+  word: BUFALO
+  forbidden_words:
+    - SIĞIR
+    - AMERİKA
+    - SÜRÜ
+    - KOVBOY
+-
+  word: SIĞINAK
+  forbidden_words:
+    - SAVAŞ
+    - BOMBA
+    - SAKLANMAK
+    - KAÇMAK
+-
+  word: ALYANS
+  forbidden_words:
+    - EVLİLİK
+    - YÜZÜK
+    - KARI-KOCA
+    - PARMAK
+-
+  word: ALKOLİK
+  forbidden_words:
+    - İÇKİ
+    - GÜN
+    - AYYAŞ
+    - ALIŞKANLIK
+-
+  word: ATARİ
+  forbidden_words:
+    - BİLGİSAYAR
+    - ESKİ
+    - OYUN
+    - BASİT
+-
+  word: MAYTAP
+  forbidden_words:
+    - IŞIK
+    - KIVILCIM
+    - PASTA
+    - DOĞUM GÜNÜ
+-
+  word: İŞARET DİLİ
+  forbidden_words:
+    - SAĞIR
+    - KONUŞMAK
+    - EL
+    - HAREKET
+-
+  word: TAHTAKALE
+  forbidden_words:
+    - İSTANBUL
+    - ALIŞVERİŞ
+    - ÇARŞI
+    - UCUZ
+-
+  word: RÖNTGENCİ
+  forbidden_words:
+    - DİKİZ
+    - GÖZETLEMEK
+    - SAPIK
+    - GİZLİ
+-
+  word: KEMAL SUNAL
+  forbidden_words:
+    - SİNEMA
+    - KOMİK
+    - OYUNCU
+    - HABABAM SINIFI
+-
+  word: GÖRGÜ TANIĞI
+  forbidden_words:
+    - DELİL
+    - OLAY
+    - MAHKEME
+    - ÇAĞIRMAK
+-
+  word: ULAK
+  forbidden_words:
+    - HABER
+    - TAŞIMAK
+    - GÖTÜRMEK
+    - POSTACI
+-
+  word: PÖTİBÖR
+  forbidden_words:
+    - BİSKÜVİ
+    - DİKDÖRTGEN
+    - ÇAY
+    - TATLI
+-
+  word: KAÇIN KURASI
+  forbidden_words:
+    - GÖRMEK
+    - GEÇİRMEK
+    - ALDANMAK
+    - UYANIK
+-
+  word: ZIMBA
+  forbidden_words:
+    - TUTTURMAK
+    - KIRTASİYE
+    - TEL
+    - DELGEÇ
+-
+  word: PASPAL
+  forbidden_words:
+    - KOKOŞ
+    - DAĞINIK
+    - BAKIMSIZ
+    - ŞIK
+-
+  word: ÇİZME
+  forbidden_words:
+    - AYAKKABI
+    - UZUN
+    - KADIN
+    - ETEK
+-
+  word: DİDİKLEMEK
+  forbidden_words:
+    - İNCELEMEK
+    - ARAMAK
+    - DETAY
+    - SORUŞTURMAK
+-
+  word: PİYAZ
+  forbidden_words:
+    - SALATA
+    - KÖFTE
+    - KURU FASULYE
+    - HAŞLAMAK
+-
+  word: TOMBALA
+  forbidden_words:
+    - YILBAŞI
+    - OYUN
+    - ÇİNKO
+    - ÇEKMEK
+-
+  word: METRES
+  forbidden_words:
+    - KARI-KOCA
+    - EVLİ
+    - ALDATMAK
+    - YASAK
+-
+  word: KISA FİLM
+  forbidden_words:
+    - SİNEMA
+    - UZUN
+    - FESTİVAL
+    - DAKİKA
+-
+  word: ÇİFT KAŞARLI
+  forbidden_words:
+    - TOST
+    - YEMEK
+    - PEYNİR
+    - UZAMAK
+-
+  word: KOSTA RİKA
+  forbidden_words:
+    - ÜLKE
+    - AMERİKA
+    - ORTA
+    - PANAMA
+-
+  word: DAZLAK
+  forbidden_words:
+    - KEL
+    - SAÇ
+    - DÖKÜLMEK
+    - NEO-NAZİ
+-
+  word: LODOS
+  forbidden_words:
+    - RÜZGAR
+    - POYRAZ
+    - ESMEK
+    - DENİZ
+-
+  word: TAC MAHAL
+  forbidden_words:
+    - HİNDİSTAN
+    - TARİHİ
+    - SARAY
+    - BİNA
+-
+  word: KOLAJ
+  forbidden_words:
+    - RESİM
+    - BİRLEŞTİRMEK
+    - KAĞIT
+    - KESMEK
+-
+  word: MANAVGAT ŞELALESİ
+  forbidden_words:
+    - DÖKÜLMEK
+    - ANTALYA
+    - SU
+    - AKMAK
+-
+  word: ANTONI GAUDI
+  forbidden_words:
+    - MİMAR
+    - İSPANYA
+    - BARCELONA
+    - SAGRADA FAMILIA
+-
+  word: KEKLİK
+  forbidden_words:
+    - HAYVAN
+    - KUŞ
+    - AVLAMAK
+    - GÜVERCİN
+-
+  word: ERZAK
+  forbidden_words:
+    - YİYECEK
+    - YOLCULUK
+    - SAKLAMAK
+    - KONSERVE
+-
+  word: TANTANA
+  forbidden_words:
+    - ŞAMATA
+    - GÜRÜLTÜ
+    - OLAY
+    - GÖRKEMLİ
+-
+  word: SELEKTÖR
+  forbidden_words:
+    - ARABA
+    - FAR
+    - IŞIK
+    - YAKMAK
+-
+  word: ALIN TERİ
+  forbidden_words:
+    - ÇALIŞMAK
+    - EMEK
+    - DÖKMEK
+    - ZAHMET
+-
+  word: ADAM ASMACA
+  forbidden_words:
+    - OYUN
+    - KELİME
+    - BULMAK
+    - ÇİZMEK
+-
+  word: SEMİNER
+  forbidden_words:
+    - KONUŞMA
+    - SUNUM
+    - KONFERANS
+    - EĞİTİM
+-
+  word: ELİPS
+  forbidden_words:
+    - ŞEKİL
+    - YUVARLAK
+    - DAİRE
+    - DÜNYA
+-
+  word: BASAMAK
+  forbidden_words:
+    - MERDİVEN
+    - ÇIKMAK
+    - ASANSÖR
+    - KULLANMAK
+-
+  word: KAVŞAK
+  forbidden_words:
+    - DÖRT YOL
+    - ARABA
+    - KESİŞMEK
+    - BİRLEŞMEK
+-
+  word: ALTYAZI
+  forbidden_words:
+    - SİNEMA
+    - ÇEVİRİ
+    - FİLM
+    - DUBLAJ
+-
+  word: ALATURKA
+  forbidden_words:
+    - ALAFRANGA
+    - MÜZİK
+    - ESKİ
+    - GELENEK
+-
+  word: KANAVİÇE
+  forbidden_words:
+    - ELİŞİ
+    - KASNAK
+    - İPLİK
+    - İĞNE
+-
+  word: DİSPANSER
+  forbidden_words:
+    - HASTANE
+    - DOKTOR
+    - VEREM
+    - SAĞLIK OCAĞI
+-
+  word: CİNSİYET
+  forbidden_words:
+    - KADIN
+    - ERKEK
+    - DİŞİ
+    - DOĞMAK
+-
+  word: LORD
+  forbidden_words:
+    - LEYDİ
+    - BARON
+    - UNVAN
+    - İNGİLTERE
+-
+  word: REZERV
+  forbidden_words:
+    - PETROL
+    - SAKLAMAK
+    - YEDEK
+    - BİRİKTİRMEK
+-
+  word: VİCDAN AZABI
+  forbidden_words:
+    - ÇEKMEK
+    - DUYMAK
+    - ÜZÜLMEK
+    - ACI
+-
+  word: DOMİNO
+  forbidden_words:
+    - TAŞ
+    - OYUN
+    - DEVİRMEK
+    - DİKDÖRTGEN
+-
+  word: PİLATES
+  forbidden_words:
+    - SPOR
+    - EGZERSİZ
+    - TOP
+    - YOGA
+-
+  word: ZIRH
+  forbidden_words:
+    - ŞÖVALYE
+    - KORUMAK
+    - SAVAŞ
+    - METAL
+-
+  word: GO-KART
+  forbidden_words:
+    - KÜÇÜK
+    - FORMULA 1
+    - MOTOR
+    - YARIŞ
+-
+  word: SABAN
+  forbidden_words:
+    - TARLA
+    - SÜRMEK
+    - ÇİFTÇİ
+    - TARIM
+-
+  word: KAVUK
+  forbidden_words:
+    - OSMANLI
+    - SARIK
+    - BAŞLIK
+    - ŞAPKA
+-
+  word: TIRIS
+  forbidden_words:
+    - AT
+    - YÜRÜMEK
+    - DÖRTNALA
+    - HIZLI
+-
+  word: GICIRTI
+  forbidden_words:
+    - SES
+    - KAPI
+    - YAĞLAMAK
+    - TAHTA
+-
+  word: KONFORLU
+  forbidden_words:
+    - RAHAT
+    - DÖŞEMEK
+    - MOBİLYA
+    - OTEL
+-
+  word: AŞAĞI YUKARI
+  forbidden_words:
+    - YAKLAŞIK
+    - TAHMİNİ
+    - TAM
+    - İNMEK
